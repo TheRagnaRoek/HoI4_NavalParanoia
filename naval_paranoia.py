@@ -6,6 +6,13 @@ their games.
 
 3rd party dependencies: PyAudio 0.2.14 by Hubert Pham
 
+Hearts of Iron 4 and its associated trademarks are protected property of
+Paradox Interactive AB, Sweden. This includes the sound file used
+in this program, which is not used with the intention to infringe on
+said copyright.
+
+Credits to Reddit user u/Markilgrande for the idea.
+
 Script by TheRagnaRoek aka Dennis Ragnar van Reem"""
 
 import sys
