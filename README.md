@@ -36,5 +36,5 @@ PyAudio 0.2.14 by Hubert Pham. https://pypi.org/project/PyAudio/
 
 Credits to Reddit user u/Markilgrande for the idea.
 
-Program by TheRagnaRoek aka Dennis Ragnar van Reem
+Program by TheRagnaRoek aka Dennis Ragnar van Reem <br>
 Last Updated: December 2024
